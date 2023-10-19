@@ -1,5 +1,4 @@
 # Balena Cloud Kali Image
-***
 The Balena Cloud platform allows for the remote management of IOT devices. This service can be used along with the Kali Docker image to create a simple "drop box" for penetration testing. After provisioning, devices in the Kali fleet can be dropped into a target network allowing penetration testing to continue remotely with all the tools included in a basic kali installation.
 
 ## Installation
@@ -7,6 +6,7 @@ Currently the only method available to install this project onto your Balena Clo
 
 ### Single Click Deploy
 Not done yet
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/T3ch404/Balena-Cloud-Kali-Image)
 
 ### Balena CLI Install
 1. Get project files `git clone https://github.com/T3ch404`
