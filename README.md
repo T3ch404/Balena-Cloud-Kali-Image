@@ -6,6 +6,7 @@ Currently the only method available to install this project onto your Balena Clo
 
 ### Single Click Deploy
 Not done yet
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/T3ch404/Balena-Cloud-Kali-Image)
 
 ### Balena CLI Install
 1. Get project files `git clone https://github.com/T3ch404`
